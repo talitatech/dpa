@@ -1,4 +1,4 @@
-# dpa
+
 <h1>Diário de Pensamento Automático</h1><br/>
 
 <h2>O que é:</h2> <br/>
