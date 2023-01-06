@@ -5,12 +5,12 @@ O que é: o Registro Diário de Pensamentos Disfuncionais, também conhecido com
 
 
 Tecnologias
- .Plop. js (facilita a criação de arquivos em seus projetos, evitando que você tenha sempre que escrever código repetido para iniciar uma estrutura.)
- .Styled Components (uma biblioteca (lib) do React e do React Native que nos permite criar componentes de estilo ao escrever códigos CSS dentro de um arquivo JavaScript.)
- .Ant Design (uma biblioteca e uma linguagem de design do React UI para criar interfaces de usuário elegantes)
- .Formik (uma lib que auxilia na construção de formulários. Ele fornece os componentes Form, Field e ErrorMessage.) 
- .Yup ( um construtor de esquema JavaScript para análise e validação de valor)
- .Storybook (uma ferramenta que tem como objetivo servir de ambiente isolado para você criar seus componentes.
+ .Plop. js (facilita a criação de arquivos em seus projetos, evitando que você tenha sempre que escrever código repetido para iniciar uma estrutura.)<br/>
+ .Styled Components (uma biblioteca (lib) do React e do React Native que nos permite criar componentes de estilo ao escrever códigos CSS dentro de um arquivo JavaScript.)<br/>
+ .Ant Design (uma biblioteca e uma linguagem de design do React UI para criar interfaces de usuário elegantes)<br/>
+ .Formik (uma lib que auxilia na construção de formulários. Ele fornece os componentes Form, Field e ErrorMessage.)<br/> 
+ .Yup ( um construtor de esquema JavaScript para análise e validação de valor)<br/>
+ .Storybook (uma ferramenta que tem como objetivo servir de ambiente isolado para você criar seus componentes.<br/>
  
 Preparação do ambiente
 Clonando o projeto
