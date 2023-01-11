@@ -16,7 +16,6 @@ O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é
 - [Formik](https://formik.org/)
 - [Yup](https://github.com/jquense/yup)
 - [Storybook](https://storybook.js.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 
  
