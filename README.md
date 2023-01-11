@@ -18,21 +18,6 @@ O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é
 - [Storybook](https://storybook.js.org/)
 
 
- 
-<h2>Preparação do ambiente</h2><br/>
-Clonando o projeto<br/>
-
-git clone https://github.com/talitatech/dpa-master.git<br/>
-Após acessar o diretório do projeto, rodar o comando no terminal para baixar a node_modules:
-
-yarn<br/>
-Para inicializar a aplicação, basta rodar:
-
-yarn start<br/>
-Para acessar a aplicação, basta acessar:<br/>
-
-http://localhost:3000<br/>
-
 
 ## Preparação do ambiente
 
