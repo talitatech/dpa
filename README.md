@@ -9,7 +9,7 @@ O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é
 
 
 <h2>Tecnologias</h2><br/>
- <a href="https://github.com/talitatech" target="_blank">.ReactJS</a><br/>
+ <a href="https://pt-br.reactjs.org/" target="_blank">.ReactJS</a><br/>
  .Plop. js (facilita a criação de arquivos em seus projetos, evitando que você tenha sempre que escrever código repetido para iniciar uma estrutura.)<br/>
  .Styled Components (uma biblioteca (lib) do React e do React Native que nos permite criar componentes de estilo ao escrever códigos CSS dentro de um arquivo JavaScript.)<br/>
  .Ant Design (uma biblioteca e uma linguagem de design do React UI para criar interfaces de usuário elegantes)<br/>
