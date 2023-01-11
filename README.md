@@ -11,17 +11,17 @@ O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é
 <h2>Tecnologias</h2><br/>
  <a href="https://plopjs.com/" target="_blank">.Plop. js </a><br/>
  <a href="" target="_blank">. </a><br/>
-<a href="https://ant.design/" target="_blank">.Ant Design</a><br/>
- <a href="https://formik.org/" target="_blank">.Formik </a><br/> 
- <a href="https://github.com/jquense/yup" target="_blank">.Yup </a><br/>
- <a href="https://storybook.js.org/" target="_blank">.Storybook</a><br/>
+<a href="" target="_blank">.Ant Design</a><br/>
+ <a href="" target="_blank">.Formik </a><br/> 
+ <a href="" target="_blank">.Yup </a><br/>
+ <a href="" target="_blank">.Storybook</a><br/>
  
-- [ReactJS](https://expo.io/)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Ant Design](https://ant.design/)
+- [Formik](https://formik.org/)
+- [Yup](https://github.com/jquense/yup)
+- [Storybook](https://storybook.js.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 
