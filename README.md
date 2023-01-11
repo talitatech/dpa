@@ -12,7 +12,7 @@ O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é
  <a href="https://pt-br.reactjs.org/" target="_blank">.ReactJS</a><br/>
  <a href="https://plopjs.com/" target="_blank">.Plop. js </a><br/>
  <a href="https://styled-components.com/" target="_blank">.Styled Components </a><br/>
- <a href="https://ant.design/" target="_blank">.Ant Design </a><br/>
+<a href="https://ant.design/" target="_blank">.Ant Design</a><br/>
  <a href="https://formik.org/" target="_blank">.Formik </a><br/> 
  <a href="https://github.com/jquense/yup" target="_blank">.Yup </a><br/>
  <a href="https://storybook.js.org/" target="_blank">.Storybook</a><br/>
