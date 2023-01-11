@@ -9,12 +9,6 @@ O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é
 
 
 <h2>Tecnologias</h2><br/>
- <a href="https://plopjs.com/" target="_blank">.Plop. js </a><br/>
- <a href="" target="_blank">. </a><br/>
-<a href="" target="_blank">.Ant Design</a><br/>
- <a href="" target="_blank">.Formik </a><br/> 
- <a href="" target="_blank">.Yup </a><br/>
- <a href="" target="_blank">.Storybook</a><br/>
  
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
@@ -40,4 +34,3 @@ Para acessar a aplicação, basta acessar:<br/>
 
 http://localhost:3000<br/>
 
-- [TypeScript](https://www.typescriptlang.org/)
