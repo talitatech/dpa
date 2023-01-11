@@ -1,6 +1,6 @@
 
 <h1>Diário de Pensamento Automático</h1><br/>
-O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é uma ferramenta utilizada no tratamento de diversos pacientes naspsicoterapias TCC, terapia cognitivo-comportamental. Seu foco não é apenas identificar os pensamentos automáticos, mas ajudar o paciente a contestá-los.<br/>
+O Registro Diário de Pensamentos Disfuncionais, também conhecido como RPDP, é uma ferramenta utilizada no tratamento de diversos pacientes nas psicoterapias TCC (Terapia Cognitivo-Comportamental). Seu foco não é apenas identificar os pensamentos automáticos, mas ajudar o paciente a contestá-los.<br/>
 <br/>
 <img width="1656" alt="Projeto com título e formulário ao lado direito e texto informativo ao lado esquerdo da tela exibindo na parte inferior os dados enviados" src="https://user-images.githubusercontent.com/76888906/211678980-d5f2402b-7bfc-4016-a615-8b305ce98fe3.png">
 
