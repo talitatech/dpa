@@ -30,3 +30,5 @@ yarn start<br/>
 Para acessar a aplicação, basta acessar:<br/>
 
 http://localhost:3000<br/>
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
