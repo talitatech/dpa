@@ -33,3 +33,22 @@ Para acessar a aplicação, basta acessar:<br/>
 
 http://localhost:3000<br/>
 
+
+## Preparação do ambiente
+
+Clonando o projeto
+```
+git clone https://github.com/talitatech/dpa-master.git
+```
+Após acessar o diretório do projeto, rodar o comando no terminal para baixar a node_modules:
+```
+yarn
+```
+
+Para inicializar a aplicação, basta rodar:
+```
+yarn start
+```
+Para acessar a aplicação, basta acessar:
+http://localhost:3000
+
